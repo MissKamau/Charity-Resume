@@ -1,2 +1,2 @@
-# Charity-s-Resume
+# Charity-Resume
 My resume in HTML
